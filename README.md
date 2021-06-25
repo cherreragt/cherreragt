@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![image](https://user-images.githubusercontent.com/58378442/123368451-12c9cf80-d539-11eb-9705-0a576168f40f.png)
+
+# Sobre mi 💬🤔
+
+Me llamo Christopher Herrera, tengo 22 años soy programador Backend con NodeJS, me gusta el desarrollo web, también desarrollo plugins para AMXMODX CS 1.6.
+
+# Habilidades ⚡⚡
+
+- ***Angular***
+- ***JavaScript***
+- ***HTML5***
+- ***CSS3***
+- ***Bootstrap 4***
+- ***NodeJS***
+- ***Express***
+- ***MongoDB***
+- ***MySQL***
+- ***Docker***
+- ***Kubernetes***
+- ***PHP***
+- ***Redux***
