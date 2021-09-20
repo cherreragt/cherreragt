@@ -13,22 +13,42 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Sobre mi 💬🤔
+# ¡Bienvenido a mi perfil!
 
-Me llamo Christopher Herrera, tengo 22 años soy programador Backend con NodeJS, me gusta el desarrollo web, también desarrollo plugins para AMXMODX CS 1.6.
+Mi nombre es Christopher Herrera, tengo 23 años soy desarrollador backend con NodeJS & me gusta aprender nuevas tecnologias.
 
-# Habilidades ⚡⚡
+```typescript
+const { frontend_knowledge, backend_knowledge } = christopher;
+```
 
-- ***Angular***
-- ***JavaScript***
-- ***HTML5***
-- ***CSS3***
-- ***Bootstrap 4***
-- ***NodeJS***
-- ***Express***
-- ***MongoDB***
-- ***MySQL***
-- ***Docker***
-- ***Kubernetes***
-- ***PHP***
-- ***Redux***
+```js
+const {
+  HTML5
+  CSS3,
+  JAVASCRIPT,
+  BOOTSTRAP,
+  ANGULAR,
+  REACT
+} = frontend_knowledge;
+```
+
+```java
+const {
+  NODEJS,
+  SPRINGBOOT
+} = backend_knowledge;
+```
+
+```code
+[life@world persons]$ kubectl get knowledge -n christopher
+NAME              READY   STATUS    RESTARTS  
+Jenkins           1/1     Running   0          
+Kubernetes        1/1     Running   0          
+Docker            1/1     Running   0     
+MySQL             1/1     Running   0        
+
+```
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chris4589&theme=radical&count_private=true)]
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chris4589&theme=radical&count_private=true)
