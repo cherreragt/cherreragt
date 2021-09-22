@@ -23,7 +23,7 @@ const { frontend_knowledge, backend_knowledge } = christopher;
 
 ```js
 const {
-  HTML5
+  HTML5,
   CSS3,
   JAVASCRIPT,
   BOOTSTRAP,
@@ -32,7 +32,7 @@ const {
 } = frontend_knowledge;
 ```
 
-```java
+```js
 const {
   NODEJS,
   SPRINGBOOT
