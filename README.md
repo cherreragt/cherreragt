@@ -35,7 +35,8 @@ const {
 ```js
 const {
   NODEJS,
-  SPRINGBOOT
+  SPRINGBOOT,
+  GOLANG
 } = backend_knowledge;
 ```
 
@@ -52,3 +53,7 @@ MySQL             1/1     Running   0
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chris4589&theme=radical&count_private=true)]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chris4589&theme=radical&count_private=true)
+
+
+[![AWS CCP](https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/linkedin_thumb_image.png)](https://www.credly.com/badges/190b8dd6-a5aa-44c7-b920-7cc7ce1b318d/linked_in)
+[![AWS Developer](https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/linkedin_thumb_image.png)](https://www.credly.com/badges/e8a90bc6-8c05-4562-9867-9495085c1d32/linked_in_profile)
