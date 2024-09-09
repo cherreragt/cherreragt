@@ -13,9 +13,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ¡Bienvenido a mi perfil!
+# Welcome to my profile! ⚡⚡
 
-Mi nombre es Christopher Herrera, tengo 23 años soy desarrollador backend con NodeJS & me gusta aprender nuevas tecnologias.
+クリスです!!
+
+I'm Christopher, I'm a Back-End Developer. 😄
+
+<div style="display: flex; justify-content: center;">
+  <a href="https://www.credly.com/badges/190b8dd6-a5aa-44c7-b920-7cc7ce1b318d/linked_in">
+    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/linkedin_thumb_image.png" alt="Imagen 1" width="250" height="250" />
+  </a>
+  <a href="https://www.credly.com/badges/e8a90bc6-8c05-4562-9867-9495085c1d32/linked_in_profile">
+    <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/linkedin_thumb_image.png" alt="Imagen 2" width="250" height="250" />
+  </a>
+</div>
 
 ```typescript
 const { frontend_knowledge, backend_knowledge } = christopher;
@@ -54,6 +65,3 @@ MySQL             1/1     Running   0
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chris4589&theme=radical&count_private=true)
 
-
-[![AWS CCP](https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/linkedin_thumb_image.png)](https://www.credly.com/badges/190b8dd6-a5aa-44c7-b920-7cc7ce1b318d/linked_in)
-[![AWS Developer](https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/linkedin_thumb_image.png)](https://www.credly.com/badges/e8a90bc6-8c05-4562-9867-9495085c1d32/linked_in_profile)
