@@ -19,14 +19,15 @@ Here are some ideas to get you started:
 
 I'm Christopher, I'm a Back-End Developer. 😄
 
-<div style="display: flex; justify-content: center;">
-  <a href="https://www.credly.com/badges/190b8dd6-a5aa-44c7-b920-7cc7ce1b318d/linked_in">
-    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/linkedin_thumb_image.png" alt="Imagen 1" width="250" height="250" />
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <a href="https://www.credly.com/badges/190b8dd6-a5aa-44c7-b920-7cc7ce1b318d/linked_in" style="margin: 10px;">
+    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/linkedin_thumb_image.png" alt="Imagen 1" style="max-width: 100%; height: auto; width: 250px;" />
   </a>
-  <a href="https://www.credly.com/badges/e8a90bc6-8c05-4562-9867-9495085c1d32/linked_in_profile">
-    <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/linkedin_thumb_image.png" alt="Imagen 2" width="250" height="250" />
+  <a href="https://www.credly.com/badges/e8a90bc6-8c05-4562-9867-9495085c1d32/linked_in_profile" style="margin: 10px;">
+    <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/linkedin_thumb_image.png" alt="Imagen 2" style="max-width: 100%; height: auto; width: 250px;" />
   </a>
 </div>
+
 
 ```typescript
 const { frontend_knowledge, backend_knowledge } = christopher;
