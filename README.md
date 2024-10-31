@@ -26,6 +26,10 @@ I'm Christopher, I'm a Back-End Developer. 😄
   <a href="https://www.credly.com/badges/e8a90bc6-8c05-4562-9867-9495085c1d32/linked_in_profile" style="margin: 10px;">
     <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/linkedin_thumb_image.png" alt="Imagen 2" style="max-width: 100%; height: auto; width: 250px;" />
   </a>
+
+  <a href="https://www.credly.com/earner/earned/badge/dd320b1b-5a02-4c40-a1f0-e7790be93c26" style="margin: 10px;">
+    <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="Imagen 2" style="max-width: 100%; height: auto; width: 250px;" />
+  </a>
 </div>
 
 
